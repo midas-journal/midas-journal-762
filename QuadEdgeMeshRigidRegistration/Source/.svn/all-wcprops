@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/NAMICSandBox/!svn/ver/6248/trunk/QuadEdgeMeshRigidRegistration/Source
+END
+itkMeanSquaresMeshToMeshMetric.txx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/NAMICSandBox/!svn/ver/5985/trunk/QuadEdgeMeshRigidRegistration/Source/itkMeanSquaresMeshToMeshMetric.txx
+END
+itkMeanSquaresMeshToMeshMetric.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/NAMICSandBox/!svn/ver/3822/trunk/QuadEdgeMeshRigidRegistration/Source/itkMeanSquaresMeshToMeshMetric.h
+END
+itkResampleQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/NAMICSandBox/!svn/ver/5660/trunk/QuadEdgeMeshRigidRegistration/Source/itkResampleQuadEdgeMeshFilter.txx
+END
+itkTriangleBasisSystem.txx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/NAMICSandBox/!svn/ver/3979/trunk/QuadEdgeMeshRigidRegistration/Source/itkTriangleBasisSystem.txx
+END
+itkResampleQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/NAMICSandBox/!svn/ver/5085/trunk/QuadEdgeMeshRigidRegistration/Source/itkResampleQuadEdgeMeshFilter.h
+END
+itkPointLocator2.txx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/NAMICSandBox/!svn/ver/4259/trunk/QuadEdgeMeshRigidRegistration/Source/itkPointLocator2.txx
+END
+itkTriangleBasisSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/NAMICSandBox/!svn/ver/3979/trunk/QuadEdgeMeshRigidRegistration/Source/itkTriangleBasisSystem.h
+END
+itkTriangleListBasisSystemCalculator.txx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/NAMICSandBox/!svn/ver/4848/trunk/QuadEdgeMeshRigidRegistration/Source/itkTriangleListBasisSystemCalculator.txx
+END
+itkMeshFunction.txx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/NAMICSandBox/!svn/ver/3944/trunk/QuadEdgeMeshRigidRegistration/Source/itkMeshFunction.txx
+END
+itkPointLocator2.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/NAMICSandBox/!svn/ver/4235/trunk/QuadEdgeMeshRigidRegistration/Source/itkPointLocator2.h
+END
+itkLinearInterpolateMeshFunction.txx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/NAMICSandBox/!svn/ver/5830/trunk/QuadEdgeMeshRigidRegistration/Source/itkLinearInterpolateMeshFunction.txx
+END
+itkTriangleListBasisSystemCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/NAMICSandBox/!svn/ver/4513/trunk/QuadEdgeMeshRigidRegistration/Source/itkTriangleListBasisSystemCalculator.h
+END
+itkTriangleBasisSystemCalculator.txx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/NAMICSandBox/!svn/ver/4759/trunk/QuadEdgeMeshRigidRegistration/Source/itkTriangleBasisSystemCalculator.txx
+END
+itkMeshFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/NAMICSandBox/!svn/ver/3944/trunk/QuadEdgeMeshRigidRegistration/Source/itkMeshFunction.h
+END
+itkLinearInterpolateMeshFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/NAMICSandBox/!svn/ver/5816/trunk/QuadEdgeMeshRigidRegistration/Source/itkLinearInterpolateMeshFunction.h
+END
+itkMeshToMeshRegistrationMethod.txx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/NAMICSandBox/!svn/ver/3859/trunk/QuadEdgeMeshRigidRegistration/Source/itkMeshToMeshRegistrationMethod.txx
+END
+itkInterpolateMeshFunction.txx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/NAMICSandBox/!svn/ver/3944/trunk/QuadEdgeMeshRigidRegistration/Source/itkInterpolateMeshFunction.txx
+END
+itkFreeSurferBinarySurfaceReader.txx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/NAMICSandBox/!svn/ver/6248/trunk/QuadEdgeMeshRigidRegistration/Source/itkFreeSurferBinarySurfaceReader.txx
+END
+itkNearestNeighborInterpolateMeshFunction.txx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/NAMICSandBox/!svn/ver/5792/trunk/QuadEdgeMeshRigidRegistration/Source/itkNearestNeighborInterpolateMeshFunction.txx
+END
+itkTriangleBasisSystemCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/NAMICSandBox/!svn/ver/4759/trunk/QuadEdgeMeshRigidRegistration/Source/itkTriangleBasisSystemCalculator.h
+END
+itkMeshToMeshRegistrationMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/NAMICSandBox/!svn/ver/3822/trunk/QuadEdgeMeshRigidRegistration/Source/itkMeshToMeshRegistrationMethod.h
+END
+itkNearestNeighborInterpolateMeshFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/NAMICSandBox/!svn/ver/5792/trunk/QuadEdgeMeshRigidRegistration/Source/itkNearestNeighborInterpolateMeshFunction.h
+END
+itkInterpolateMeshFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/NAMICSandBox/!svn/ver/3944/trunk/QuadEdgeMeshRigidRegistration/Source/itkInterpolateMeshFunction.h
+END
+itkFreeSurferBinarySurfaceReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/NAMICSandBox/!svn/ver/6186/trunk/QuadEdgeMeshRigidRegistration/Source/itkFreeSurferBinarySurfaceReader.h
+END
+itkMeshToMeshMetric.txx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/NAMICSandBox/!svn/ver/4262/trunk/QuadEdgeMeshRigidRegistration/Source/itkMeshToMeshMetric.txx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/NAMICSandBox/!svn/ver/3822/trunk/QuadEdgeMeshRigidRegistration/Source/CMakeLists.txt
+END
+itkMeshToMeshMetric.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/NAMICSandBox/!svn/ver/4275/trunk/QuadEdgeMeshRigidRegistration/Source/itkMeshToMeshMetric.h
+END

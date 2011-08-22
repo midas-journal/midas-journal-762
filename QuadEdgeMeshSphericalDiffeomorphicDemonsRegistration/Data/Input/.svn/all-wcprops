@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/NAMICSandBox/!svn/ver/5969/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input
+END
+SimpleSurface1Small.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/NAMICSandBox/!svn/ver/5062/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/SimpleSurface1Small.vtk
+END
+SimpleSurface2Small.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/NAMICSandBox/!svn/ver/5062/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/SimpleSurface2Small.vtk
+END
+movingMeshWithScalarsIC1.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/4851/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/movingMeshWithScalarsIC1.vtk
+END
+fixedMeshWithScalarsIC1.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/NAMICSandBox/!svn/ver/4851/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/fixedMeshWithScalarsIC1.vtk
+END
+movingMeshWithScalarsIC2.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/5681/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/movingMeshWithScalarsIC2.vtk
+END
+fixedMeshWithScalarsIC2.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/NAMICSandBox/!svn/ver/5681/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/fixedMeshWithScalarsIC2.vtk
+END
+movingMeshWithScalarsIC3.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/5682/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/movingMeshWithScalarsIC3.vtk
+END
+fixedMeshWithScalarsIC3.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/NAMICSandBox/!svn/ver/5682/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/fixedMeshWithScalarsIC3.vtk
+END
+movingMeshWithScalarsIC4.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/5969/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/movingMeshWithScalarsIC4.vtk
+END
+fixedMeshWithScalarsIC4.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/NAMICSandBox/!svn/ver/5969/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/fixedMeshWithScalarsIC4.vtk
+END
+RigidRegistrationSimpleSurface2to1.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/NAMICSandBox/!svn/ver/5079/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/RigidRegistrationSimpleSurface2to1.vtk
+END
+SimpleSurface1.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/NAMICSandBox/!svn/ver/5079/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/SimpleSurface1.vtk
+END
+SimpleSurface2.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/NAMICSandBox/!svn/ver/5079/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/SimpleSurface2.vtk
+END
+RigidRegistrationSimpleSurface2to1Small.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/NAMICSandBox/!svn/ver/5077/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Data/Input/RigidRegistrationSimpleSurface2to1Small.vtk
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/NAMICSandBox/!svn/ver/6503/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source
+END
+itkHistogramMatchingQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/NAMICSandBox/!svn/ver/6404/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkHistogramMatchingQuadEdgeMeshFilter.txx
+END
+itkScalarQuadEdgeMeshToListAdaptor.txx
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/NAMICSandBox/!svn/ver/6294/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkScalarQuadEdgeMeshToListAdaptor.txx
+END
+itkReplaceDestinationPointsQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/NAMICSandBox/!svn/ver/5917/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkReplaceDestinationPointsQuadEdgeMeshFilter.txx
+END
+itkDeformQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/NAMICSandBox/!svn/ver/6147/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkDeformQuadEdgeMeshFilter.txx
+END
+itkHistogramMatchingQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/NAMICSandBox/!svn/ver/6404/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkHistogramMatchingQuadEdgeMeshFilter.h
+END
+itkLinearInterpolateDeformationFieldMeshFunction.txx
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/NAMICSandBox/!svn/ver/5814/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkLinearInterpolateDeformationFieldMeshFunction.txx
+END
+itkScalarQuadEdgeMeshToListAdaptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/NAMICSandBox/!svn/ver/6294/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkScalarQuadEdgeMeshToListAdaptor.h
+END
+itkReplaceDestinationPointsQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/NAMICSandBox/!svn/ver/5916/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkReplaceDestinationPointsQuadEdgeMeshFilter.h
+END
+itkQuadEdgeMeshSphericalDiffeomorphicDemonsFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/NAMICSandBox/!svn/ver/6894/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkQuadEdgeMeshSphericalDiffeomorphicDemonsFilter.txx
+END
+itkDeformQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/NAMICSandBox/!svn/ver/6147/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkDeformQuadEdgeMeshFilter.h
+END
+itkLinearInterpolateDeformationFieldMeshFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/NAMICSandBox/!svn/ver/5793/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkLinearInterpolateDeformationFieldMeshFunction.h
+END
+itkIcosahedralRegularSphereMeshSource.txx
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/NAMICSandBox/!svn/ver/6109/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkIcosahedralRegularSphereMeshSource.txx
+END
+itkQuadEdgeMeshSphericalDiffeomorphicDemonsFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/NAMICSandBox/!svn/ver/6134/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkQuadEdgeMeshSphericalDiffeomorphicDemonsFilter.h
+END
+itkIcosahedralRegularSphereMeshSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/NAMICSandBox/!svn/ver/6156/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkIcosahedralRegularSphereMeshSource.h
+END
+itkQuadEdgeMeshSimilarityCalculator.txx
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/NAMICSandBox/!svn/ver/6294/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkQuadEdgeMeshSimilarityCalculator.txx
+END
+itkDeformationFieldFromTransformMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/NAMICSandBox/!svn/ver/5149/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkDeformationFieldFromTransformMeshFilter.txx
+END
+itkQuadEdgeMeshSimilarityCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/NAMICSandBox/!svn/ver/6253/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkQuadEdgeMeshSimilarityCalculator.h
+END
+itkDeformationFieldFromTransformMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/NAMICSandBox/!svn/ver/5623/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkDeformationFieldFromTransformMeshFilter.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/NAMICSandBox/!svn/ver/3865/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/CMakeLists.txt
+END
+itkResampleDestinationPointsQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/NAMICSandBox/!svn/ver/6029/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkResampleDestinationPointsQuadEdgeMeshFilter.txx
+END
+itkNormalizeScalarsQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/NAMICSandBox/!svn/ver/6406/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkNormalizeScalarsQuadEdgeMeshFilter.txx
+END
+itkWarpQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/NAMICSandBox/!svn/ver/6225/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkWarpQuadEdgeMeshFilter.txx
+END
+itkResampleDestinationPointsQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/NAMICSandBox/!svn/ver/5889/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkResampleDestinationPointsQuadEdgeMeshFilter.h
+END
+itkNormalizeScalarsQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/NAMICSandBox/!svn/ver/6205/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkNormalizeScalarsQuadEdgeMeshFilter.h
+END
+itkWarpQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/NAMICSandBox/!svn/ver/6155/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkWarpQuadEdgeMeshFilter.h
+END
+itkMultiResolutionQuadEdgeMeshSphericalDiffeomorphicDemonsFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/NAMICSandBox/!svn/ver/6407/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkMultiResolutionQuadEdgeMeshSphericalDiffeomorphicDemonsFilter.txx
+END
+itkQuadEdgeMeshSphericalDiffeomorphicDemonsRegistrationConfigure.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/NAMICSandBox/!svn/ver/5842/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkQuadEdgeMeshSphericalDiffeomorphicDemonsRegistrationConfigure.h.in
+END
+itkNodeScalarGradientCalculator.txx
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/NAMICSandBox/!svn/ver/5622/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkNodeScalarGradientCalculator.txx
+END
+itkMultiResolutionQuadEdgeMeshSphericalDiffeomorphicDemonsFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/NAMICSandBox/!svn/ver/6407/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkMultiResolutionQuadEdgeMeshSphericalDiffeomorphicDemonsFilter.h
+END
+itkNodeScalarGradientCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/NAMICSandBox/!svn/ver/4886/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkNodeScalarGradientCalculator.h
+END
+itkNodeVectorJacobianCalculator.txx
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/NAMICSandBox/!svn/ver/5621/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkNodeVectorJacobianCalculator.txx
+END
+itkQuadEdgeMeshGenerateDeformationFieldFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/NAMICSandBox/!svn/ver/5827/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkQuadEdgeMeshGenerateDeformationFieldFilter.txx
+END
+itkRescaleScalarsQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/NAMICSandBox/!svn/ver/6402/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkRescaleScalarsQuadEdgeMeshFilter.txx
+END
+itkQuadEdgeMeshGenerateDeformationFieldFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/NAMICSandBox/!svn/ver/5821/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkQuadEdgeMeshGenerateDeformationFieldFilter.h
+END
+itkNodeVectorJacobianCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/NAMICSandBox/!svn/ver/5063/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkNodeVectorJacobianCalculator.h
+END
+itkAssignScalarValuesQuadEdgeMeshFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/NAMICSandBox/!svn/ver/6090/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkAssignScalarValuesQuadEdgeMeshFilter.txx
+END
+itkRescaleScalarsQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/NAMICSandBox/!svn/ver/6402/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkRescaleScalarsQuadEdgeMeshFilter.h
+END
+itkAssignScalarValuesQuadEdgeMeshFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/NAMICSandBox/!svn/ver/6156/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Source/itkAssignScalarValuesQuadEdgeMeshFilter.h
+END

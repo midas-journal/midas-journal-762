@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/NAMICSandBox/!svn/ver/6357/trunk/QuadEdgeMeshFieldSmoothingFilters/Source
+END
+itkQuadEdgeMeshScalarPixelValuesSmoothingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/NAMICSandBox/!svn/ver/4682/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/itkQuadEdgeMeshScalarPixelValuesSmoothingFilter.h
+END
+itkQuadEdgeMeshVTKPolyDataReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/itkQuadEdgeMeshVTKPolyDataReader.h
+END
+itkQuadEdgeMeshVectorDataVTKPolyDataWriter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/NAMICSandBox/!svn/ver/5133/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/itkQuadEdgeMeshVectorDataVTKPolyDataWriter.txx
+END
+itkQuadEdgeMeshVectorDataVTKPolyDataWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/itkQuadEdgeMeshVectorDataVTKPolyDataWriter.h
+END
+itkQuadEdgeMeshVectorPixelValuesSmoothingFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/4893/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/itkQuadEdgeMeshVectorPixelValuesSmoothingFilter.txx
+END
+itkQuadEdgeMeshScalarPixelValuesSmoothingFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/4682/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/itkQuadEdgeMeshScalarPixelValuesSmoothingFilter.txx
+END
+itkQuadEdgeMeshVTKPolyDataReader.txx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/NAMICSandBox/!svn/ver/6357/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/itkQuadEdgeMeshVTKPolyDataReader.txx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/CMakeLists.txt
+END
+itkQuadEdgeMeshVectorPixelValuesSmoothingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/NAMICSandBox/!svn/ver/4678/trunk/QuadEdgeMeshFieldSmoothingFilters/Source/itkQuadEdgeMeshVectorPixelValuesSmoothingFilter.h
+END

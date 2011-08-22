@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/NAMICSandBox/!svn/ver/3867/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Utilities/KWStyle
+END
+KWStyle.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/NAMICSandBox/!svn/ver/3867/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Utilities/KWStyle/KWStyle.cmake
+END
+ITKHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/NAMICSandBox/!svn/ver/3865/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Utilities/KWStyle/ITKHeader.h
+END
+ITKOverwrite.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/NAMICSandBox/!svn/ver/3865/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Utilities/KWStyle/ITKOverwrite.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/NAMICSandBox/!svn/ver/3865/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Utilities/KWStyle/CMakeLists.txt
+END
+ITKFiles.txt.in
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/NAMICSandBox/!svn/ver/3865/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Utilities/KWStyle/ITKFiles.txt.in
+END
+ITK.kws.xml.in
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/NAMICSandBox/!svn/ver/3865/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Utilities/KWStyle/ITK.kws.xml.in
+END

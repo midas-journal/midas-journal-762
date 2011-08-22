@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/NAMICSandBox/!svn/ver/5503/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing
+END
+VectorMeshRender.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/NAMICSandBox/!svn/ver/4719/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/VectorMeshRender.cxx
+END
+ScalarMeshRender.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/NAMICSandBox/!svn/ver/4706/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/ScalarMeshRender.cxx
+END
+itkMeshGeneratorHelper2.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshGeneratorHelper2.h
+END
+itkMeshGeneratorHelper3.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshGeneratorHelper3.h
+END
+itkMeshGeneratorHelper4.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/NAMICSandBox/!svn/ver/4690/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshGeneratorHelper4.h
+END
+itkQuadEdgeMeshVectorPixelValuesSmoothingFilterTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/NAMICSandBox/!svn/ver/4684/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkQuadEdgeMeshVectorPixelValuesSmoothingFilterTest1.cxx
+END
+itkQuadEdgeMeshScalarPixelValuesSmoothingFilterTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/NAMICSandBox/!svn/ver/4681/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkQuadEdgeMeshScalarPixelValuesSmoothingFilterTest1.cxx
+END
+itkQuadEdgeMeshVTKPolyDataReader1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkQuadEdgeMeshVTKPolyDataReader1.cxx
+END
+itkQuadEdgeMeshVTKPolyDataReader2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkQuadEdgeMeshVTKPolyDataReader2.cxx
+END
+itkMeshGeneratorHelperTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshGeneratorHelperTest1.cxx
+END
+itkMeshGeneratorHelperTest2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshGeneratorHelperTest2.cxx
+END
+itkMeshGeneratorHelperTest3.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshGeneratorHelperTest3.cxx
+END
+itkMeshGeneratorHelperTest4.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/NAMICSandBox/!svn/ver/4690/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshGeneratorHelperTest4.cxx
+END
+itkFilterWatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkFilterWatcher.h
+END
+itkMeshGeneratorHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/NAMICSandBox/!svn/ver/5503/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshGeneratorHelper.h
+END
+itkMeshWriterHelper1.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshWriterHelper1.h
+END
+itkMeshWriterHelper2.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/NAMICSandBox/!svn/ver/4673/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/itkMeshWriterHelper2.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/NAMICSandBox/!svn/ver/4718/trunk/QuadEdgeMeshFieldSmoothingFilters/Testing/CMakeLists.txt
+END

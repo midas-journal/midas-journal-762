@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/NAMICSandBox/!svn/ver/6408/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples
+END
+ReadFreesurferBinarySurfaceWriteVTKMesh.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/NAMICSandBox/!svn/ver/6252/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/ReadFreesurferBinarySurfaceWriteVTKMesh.cxx
+END
+ScalarQuadEdgeMeshHistogram.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/NAMICSandBox/!svn/ver/6280/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/ScalarQuadEdgeMeshHistogram.cxx
+END
+RigidAndDemonsRegistration.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/6221/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/RigidAndDemonsRegistration.cxx
+END
+GenerateRegularSphere.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/NAMICSandBox/!svn/ver/6108/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/GenerateRegularSphere.cxx
+END
+QuadEdgeMeshSphericalDiffeomorphicDemonsFilter1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/NAMICSandBox/!svn/ver/6221/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/QuadEdgeMeshSphericalDiffeomorphicDemonsFilter1.cxx
+END
+QuadEdgeMeshSphericalDiffeomorphicDemonsFilter2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/NAMICSandBox/!svn/ver/5088/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/QuadEdgeMeshSphericalDiffeomorphicDemonsFilter2.cxx
+END
+ResampleMeshUsingRegularSphere.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/NAMICSandBox/!svn/ver/5097/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/ResampleMeshUsingRegularSphere.cxx
+END
+QuadEdgeMeshSphericalRMSDistanceMetric.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/NAMICSandBox/!svn/ver/5905/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/QuadEdgeMeshSphericalRMSDistanceMetric.cxx
+END
+SmoothingMeshWithScalars.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/NAMICSandBox/!svn/ver/6003/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/SmoothingMeshWithScalars.cxx
+END
+MultiResolutionRegistration1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/NAMICSandBox/!svn/ver/6221/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/MultiResolutionRegistration1.cxx
+END
+MultiResolutionRegistration2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/NAMICSandBox/!svn/ver/6408/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/MultiResolutionRegistration2.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/NAMICSandBox/!svn/ver/6268/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/CMakeLists.txt
+END
+QuadEdgeMeshSimilarityCalculator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/NAMICSandBox/!svn/ver/6296/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Examples/QuadEdgeMeshSimilarityCalculator.cxx
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/4713/trunk/QuadEdgeMeshFieldSmoothingFilters/Examples
+END
+SmoothingMeshWithVectors.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/NAMICSandBox/!svn/ver/4713/trunk/QuadEdgeMeshFieldSmoothingFilters/Examples/SmoothingMeshWithVectors.cxx
+END
+SmoothingMeshWithScalars.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/NAMICSandBox/!svn/ver/4691/trunk/QuadEdgeMeshFieldSmoothingFilters/Examples/SmoothingMeshWithScalars.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/NAMICSandBox/!svn/ver/4685/trunk/QuadEdgeMeshFieldSmoothingFilters/Examples/CMakeLists.txt
+END

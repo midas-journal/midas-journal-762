@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/NAMICSandBox/!svn/ver/6887/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing
+END
+MultiResolutionDeformableAndAffineRegistrationMonitor.txx
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/NAMICSandBox/!svn/ver/6115/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/MultiResolutionDeformableAndAffineRegistrationMonitor.txx
+END
+VectorMeshRender.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/NAMICSandBox/!svn/ver/4925/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/VectorMeshRender.cxx
+END
+ScalarMeshRender.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/NAMICSandBox/!svn/ver/4925/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/ScalarMeshRender.cxx
+END
+itkMeshGeneratorDerivativeHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/NAMICSandBox/!svn/ver/5793/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkMeshGeneratorDerivativeHelper.h
+END
+MultiResolutionDeformableAndAffineRegistrationMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/NAMICSandBox/!svn/ver/6115/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/MultiResolutionDeformableAndAffineRegistrationMonitor.h
+END
+DeformableRegistrationMonitor.txx
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/NAMICSandBox/!svn/ver/6115/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/DeformableRegistrationMonitor.txx
+END
+itkQuadEdgeMeshSimilarityCalculatorTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/NAMICSandBox/!svn/ver/6887/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkQuadEdgeMeshSimilarityCalculatorTest.cxx
+END
+itkScalarQuadEdgeMeshToListAdaptorTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/NAMICSandBox/!svn/ver/6392/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkScalarQuadEdgeMeshToListAdaptorTest1.cxx
+END
+DeformableRegistrationMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/6115/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/DeformableRegistrationMonitor.h
+END
+itkLinearInterpolateDeformationFieldMeshFunctionTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/NAMICSandBox/!svn/ver/5662/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkLinearInterpolateDeformationFieldMeshFunctionTest1.cxx
+END
+itkQuadEdgeMeshSphericalDiffeomorphicDemonsFilterTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/NAMICSandBox/!svn/ver/5698/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkQuadEdgeMeshSphericalDiffeomorphicDemonsFilterTest1.cxx
+END
+itkQuadEdgeMeshSphericalDiffeomorphicDemonsFilterTest2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/NAMICSandBox/!svn/ver/6297/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkQuadEdgeMeshSphericalDiffeomorphicDemonsFilterTest2.cxx
+END
+itkNodeScalarGradientCalculatorTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/NAMICSandBox/!svn/ver/4915/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkNodeScalarGradientCalculatorTest1.cxx
+END
+MeshRender.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/NAMICSandBox/!svn/ver/6296/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/MeshRender.cxx
+END
+itkNodeScalarGradientCalculatorTest2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/NAMICSandBox/!svn/ver/5793/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkNodeScalarGradientCalculatorTest2.cxx
+END
+itkMeshGeneratorHelperTest5.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/4917/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkMeshGeneratorHelperTest5.cxx
+END
+itkFilterWatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/3933/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkFilterWatcher.h
+END
+itkMeshGeneratorHelperTest6.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/NAMICSandBox/!svn/ver/6296/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkMeshGeneratorHelperTest6.cxx
+END
+itkQuadEdgeMeshGenerateDeformationFieldFilterTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/NAMICSandBox/!svn/ver/5822/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkQuadEdgeMeshGenerateDeformationFieldFilterTest1.cxx
+END
+itkNodeVectorJacobianCalculatorTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/NAMICSandBox/!svn/ver/4915/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkNodeVectorJacobianCalculatorTest1.cxx
+END
+itkNodeVectorJacobianCalculatorTest2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/NAMICSandBox/!svn/ver/6355/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkNodeVectorJacobianCalculatorTest2.cxx
+END
+itkWarpQuadEdgeMeshFilterTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/NAMICSandBox/!svn/ver/6887/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkWarpQuadEdgeMeshFilterTest.cxx
+END
+itkAssignScalarValuesQuadEdgeMeshFilterTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/NAMICSandBox/!svn/ver/6296/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkAssignScalarValuesQuadEdgeMeshFilterTest1.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/NAMICSandBox/!svn/ver/6888/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/CMakeLists.txt
+END
+itkVersorOperationsTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/NAMICSandBox/!svn/ver/3879/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkVersorOperationsTest1.cxx
+END
+.NoDartCoverage
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/NAMICSandBox/!svn/ver/3869/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/.NoDartCoverage
+END
+DeformableAndAffineRegistrationMonitor.txx
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/NAMICSandBox/!svn/ver/6416/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/DeformableAndAffineRegistrationMonitor.txx
+END
+itkRescaleScalarsQuadEdgeMeshFilterTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/NAMICSandBox/!svn/ver/6402/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkRescaleScalarsQuadEdgeMeshFilterTest.cxx
+END
+itkResampleDestinationPointsQuadEdgeMeshFilterTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/NAMICSandBox/!svn/ver/5702/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkResampleDestinationPointsQuadEdgeMeshFilterTest1.cxx
+END
+DeformableAndAffineRegistrationMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/NAMICSandBox/!svn/ver/6124/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/DeformableAndAffineRegistrationMonitor.h
+END
+itkMeshGeneratorHelper5.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/NAMICSandBox/!svn/ver/4917/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkMeshGeneratorHelper5.h
+END
+itkNormalizeScalarsQuadEdgeMeshFilterTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/NAMICSandBox/!svn/ver/6212/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkNormalizeScalarsQuadEdgeMeshFilterTest1.cxx
+END
+itkMeshGeneratorHelper6.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/NAMICSandBox/!svn/ver/6296/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkMeshGeneratorHelper6.h
+END
+itkHistogramMatchingQuadEdgeMeshFilterTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/NAMICSandBox/!svn/ver/6403/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/itkHistogramMatchingQuadEdgeMeshFilterTest.cxx
+END
+MultiResolutionDeformableAndAffineRegistrationMonitorWithTargetTracking.txx
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/NAMICSandBox/!svn/ver/6155/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/MultiResolutionDeformableAndAffineRegistrationMonitorWithTargetTracking.txx
+END
+MultiResolutionDeformableAndAffineRegistrationMonitorWithTargetTracking.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/NAMICSandBox/!svn/ver/6124/trunk/QuadEdgeMeshSphericalDiffeomorphicDemonsRegistration/Testing/MultiResolutionDeformableAndAffineRegistrationMonitorWithTargetTracking.h
+END

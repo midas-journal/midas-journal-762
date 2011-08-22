@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/6220/trunk/QuadEdgeMeshRigidRegistration/Examples
+END
+MeanSquaresMeshToMeshMetricRegistration1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/NAMICSandBox/!svn/ver/5084/trunk/QuadEdgeMeshRigidRegistration/Examples/MeanSquaresMeshToMeshMetricRegistration1.cxx
+END
+MeanSquaresMeshToMeshMetricRegistrationWithMonitor1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/NAMICSandBox/!svn/ver/6220/trunk/QuadEdgeMeshRigidRegistration/Examples/MeanSquaresMeshToMeshMetricRegistrationWithMonitor1.cxx
+END
+ConvertFreeSurferBinarySurfaceToVTKSurface.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/NAMICSandBox/!svn/ver/4270/trunk/QuadEdgeMeshRigidRegistration/Examples/ConvertFreeSurferBinarySurfaceToVTKSurface.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/NAMICSandBox/!svn/ver/5849/trunk/QuadEdgeMeshRigidRegistration/Examples/CMakeLists.txt
+END

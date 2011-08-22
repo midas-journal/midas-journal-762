@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/NAMICSandBox/!svn/ver/6354/trunk/QuadEdgeMeshRigidRegistration/Testing
+END
+RegistrationMonitor.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/NAMICSandBox/!svn/ver/6157/trunk/QuadEdgeMeshRigidRegistration/Testing/RegistrationMonitor.cxx
+END
+itkTriangleBasisSystemTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/NAMICSandBox/!svn/ver/5795/trunk/QuadEdgeMeshRigidRegistration/Testing/itkTriangleBasisSystemTest1.cxx
+END
+itkPointLocator2Test1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/NAMICSandBox/!svn/ver/5798/trunk/QuadEdgeMeshRigidRegistration/Testing/itkPointLocator2Test1.cxx
+END
+AffineRegistrationMonitor.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/NAMICSandBox/!svn/ver/6417/trunk/QuadEdgeMeshRigidRegistration/Testing/AffineRegistrationMonitor.cxx
+END
+itkMeshFunctionTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/NAMICSandBox/!svn/ver/5792/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeshFunctionTest1.cxx
+END
+itkTriangleListBasisSystemCalculatorTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/NAMICSandBox/!svn/ver/5795/trunk/QuadEdgeMeshRigidRegistration/Testing/itkTriangleListBasisSystemCalculatorTest1.cxx
+END
+itkLinearInterpolateMeshFunctionTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/4245/trunk/QuadEdgeMeshRigidRegistration/Testing/itkLinearInterpolateMeshFunctionTest1.cxx
+END
+itkLinearInterpolateMeshFunctionTest2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/5474/trunk/QuadEdgeMeshRigidRegistration/Testing/itkLinearInterpolateMeshFunctionTest2.cxx
+END
+itkTriangleBasisSystemCalculatorTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/5795/trunk/QuadEdgeMeshRigidRegistration/Testing/itkTriangleBasisSystemCalculatorTest1.cxx
+END
+itkLinearInterpolateMeshFunctionTest3.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/5474/trunk/QuadEdgeMeshRigidRegistration/Testing/itkLinearInterpolateMeshFunctionTest3.cxx
+END
+itkLinearInterpolateMeshFunctionTest4.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/5811/trunk/QuadEdgeMeshRigidRegistration/Testing/itkLinearInterpolateMeshFunctionTest4.cxx
+END
+itkNearestNeighborInterpolateMeshFunctionTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/NAMICSandBox/!svn/ver/4245/trunk/QuadEdgeMeshRigidRegistration/Testing/itkNearestNeighborInterpolateMeshFunctionTest1.cxx
+END
+itkFreeSurferBinarySurfaceReaderTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/6184/trunk/QuadEdgeMeshRigidRegistration/Testing/itkFreeSurferBinarySurfaceReaderTest1.cxx
+END
+itkFreeSurferBinarySurfaceReaderTest2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/5474/trunk/QuadEdgeMeshRigidRegistration/Testing/itkFreeSurferBinarySurfaceReaderTest2.cxx
+END
+RegistrationMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/NAMICSandBox/!svn/ver/6157/trunk/QuadEdgeMeshRigidRegistration/Testing/RegistrationMonitor.h
+END
+itkMeshToMeshMetricTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/NAMICSandBox/!svn/ver/5792/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeshToMeshMetricTest1.cxx
+END
+itkImageToImageRotationRegistrationTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/NAMICSandBox/!svn/ver/3822/trunk/QuadEdgeMeshRigidRegistration/Testing/itkImageToImageRotationRegistrationTest.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/NAMICSandBox/!svn/ver/5810/trunk/QuadEdgeMeshRigidRegistration/Testing/CMakeLists.txt
+END
+itkMeanSquaresMeshToMeshMetricTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/NAMICSandBox/!svn/ver/5792/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeanSquaresMeshToMeshMetricTest1.cxx
+END
+itkMeanSquaresMeshToMeshMetricTest2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/NAMICSandBox/!svn/ver/5792/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeanSquaresMeshToMeshMetricTest2.cxx
+END
+itkTestingMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/NAMICSandBox/!svn/ver/6354/trunk/QuadEdgeMeshRigidRegistration/Testing/itkTestingMacros.h
+END
+AffineRegistrationMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/NAMICSandBox/!svn/ver/5871/trunk/QuadEdgeMeshRigidRegistration/Testing/AffineRegistrationMonitor.h
+END
+.NoDartCoverage
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/NAMICSandBox/!svn/ver/3823/trunk/QuadEdgeMeshRigidRegistration/Testing/.NoDartCoverage
+END
+itkMeanSquaresMeshToMeshMetricTest3.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/NAMICSandBox/!svn/ver/5792/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeanSquaresMeshToMeshMetricTest3.cxx
+END
+GenerateRegularSphere.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/NAMICSandBox/!svn/ver/5800/trunk/QuadEdgeMeshRigidRegistration/Testing/GenerateRegularSphere.cxx
+END
+itkRegularSphereQuadEdgeMeshSourceTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/NAMICSandBox/!svn/ver/5474/trunk/QuadEdgeMeshRigidRegistration/Testing/itkRegularSphereQuadEdgeMeshSourceTest1.cxx
+END
+itkMeshGeneratorHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/NAMICSandBox/!svn/ver/5474/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeshGeneratorHelper.h
+END
+itkMeshToMeshRegistrationMethodTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/NAMICSandBox/!svn/ver/4275/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeshToMeshRegistrationMethodTest1.cxx
+END
+itkMeshToMeshRegistrationMethodTest2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/NAMICSandBox/!svn/ver/5792/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeshToMeshRegistrationMethodTest2.cxx
+END
+itkMeshToMeshRegistrationMethodTest3.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/NAMICSandBox/!svn/ver/4275/trunk/QuadEdgeMeshRigidRegistration/Testing/itkMeshToMeshRegistrationMethodTest3.cxx
+END
+itkQuadEdgeMeshKdTreeGeneratorTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/NAMICSandBox/!svn/ver/4235/trunk/QuadEdgeMeshRigidRegistration/Testing/itkQuadEdgeMeshKdTreeGeneratorTest.cxx
+END
